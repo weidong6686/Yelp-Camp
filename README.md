@@ -1,4 +1,4 @@
-# C9_YelpCamp
+# YelpCamp
 
 [![Known Vulnerabilities](https://snyk.io/test/github/lucasweng/yelp-camp/badge.svg)](https://snyk.io/test/github/lucasweng/yelp-camp)
 [![NSP Status](https://nodesecurity.io/orgs/webdevprojects/projects/e3247e54-2256-44ff-9c8a-e4e087bd49fa/badge)](https://nodesecurity.io/orgs/webdevprojects/projects/e3247e54-2256-44ff-9c8a-e4e087bd49fa)
@@ -114,4 +114,4 @@ Some comments in the source code are course notes and therefore might not seem n
 * [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
 ## License
 
-#### [Jenna Jiang](./LICENSE)
+#### [weido6686](./LICENSE)
