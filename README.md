@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-To see the app in action, go to [http://bit.ly/JennaCamp](http://bit.ly/JennaCamp)
+To see the app in action, go to [https://36e6c8b596144768ab116e2cffc6f898.vfs.cloud9.us-east-2.amazonaws.com/](https://36e6c8b596144768ab116e2cffc6f898.vfs.cloud9.us-east-2.amazonaws.com/)
 
 ## Features
 
